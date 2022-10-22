@@ -1,0 +1,27 @@
+a:hover {
+  color: gold;
+}
+
+body {
+  background-color: #C8DBBE;
+}
+hr {
+  border-width: 7px;
+  border-color: gray;
+  border-style: dotted none none;
+  width: 50%;
+
+}
+
+h1 {
+  color: #B73E3E;
+  font-family: sans-serif;
+}
+
+
+
+h3 {
+  color: #4E6C50;
+  font-family: sans-serif;
+
+}
